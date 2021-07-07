@@ -1,0 +1,35 @@
+* {
+    /*Reset's every elements apperance*/
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    border-spacing: 0;
+    color: #26589F;
+    font-family: 'PT Sans Narrow',sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.42rem;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+}
+
+button{
+    width: 100vw;
+    height: 75px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+}
+nav ul li{
+    display: block;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: lightseagreen;
+    color: #fff;
+    font-size: 32px;
+}
